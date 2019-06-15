@@ -17,5 +17,9 @@ public class PhoneOne {     //根据类创建对象
         System.out.println(one.brand);  //苹果
         System.out.println(one.price);  //8388.0
         System.out.println(one.color);  //黑色
+        System.out.println("================");
+        one.call("乔布斯");
+        one.sendMessage();
+
     }
 }
