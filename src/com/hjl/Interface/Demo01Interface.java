@@ -3,7 +3,7 @@ package com.hjl.Interface;
 public interface 接口名称{
 //接口内容
 }
-
+备注:换成关键字interface之后，编译生成的字节码文件仍然是,.java -->.class
  */
 public class Demo01Interface {
 
