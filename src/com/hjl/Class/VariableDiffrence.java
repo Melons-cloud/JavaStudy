@@ -1,4 +1,4 @@
-package com.hjl.day01;
+package com.hjl.Class;
 /*
 局部变量和成员变量：
 1.定义的位置不一样

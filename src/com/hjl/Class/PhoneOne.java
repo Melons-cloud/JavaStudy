@@ -1,4 +1,4 @@
-package com.hjl.day01;
+package com.hjl.Class;
 
 public class PhoneOne {     //根据类创建对象
     public static void main(String[] args){

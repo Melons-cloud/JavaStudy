@@ -1,5 +1,5 @@
 
-package com.hjl.day01;
+package com.hjl.Class;
 /*
        面向对象三大特征：封装，继承，多态
 封装性在java中的体现。

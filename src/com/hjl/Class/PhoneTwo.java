@@ -1,6 +1,6 @@
-package com.hjl.day01;
+package com.hjl.Class;
 
-public class PhoneSame {
+public class PhoneTwo {
 
 public static void main(String[] args) {
     //根据Phone类创建一个名为one的对象
@@ -18,11 +18,11 @@ public static void main(String[] args) {
     System.out.println(one.brand);  //苹果
     System.out.println(one.price);  //8388.0
     System.out.println(one.color);  //黑色
-
+    System.out.println("================");
     one.call("乔布斯");
     one.sendMessage();
-    System.out.println("================");
-    Phone two = one;    //将one当中保存的对象地址值赋值给two
+
+    Phone two = new Phone();
     System.out.println(one.brand);  //默认值null
     System.out.println(one.price);  //默认值0.0
     System.out.println(one.color);  //默认值null\

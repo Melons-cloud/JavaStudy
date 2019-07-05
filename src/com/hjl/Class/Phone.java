@@ -1,4 +1,4 @@
-package com.hjl.day01;
+package com.hjl.Class;
 
 public class Phone {
 
