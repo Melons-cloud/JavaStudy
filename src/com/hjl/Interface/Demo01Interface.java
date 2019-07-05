@@ -8,6 +8,13 @@ public interface 接口名称{
 如果是java7,那么接口中可以包含的内容有:
 1.常量
 2.抽象方法
+
+如果是java8，还可以额外包含有:
+3.默认方法
+4.静态方法
+
+如果是java9,还可以额外包含有:
+5.私有方法
  */
 public class Demo01Interface {
 
