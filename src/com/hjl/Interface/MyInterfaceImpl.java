@@ -17,4 +17,7 @@ public class MyInterfaceImpl implements MyInterfaceA,MyInterfaceB{
 
         System.out.println("覆盖重写了B方法！");
     }
+    public void methodDefault(){
+        System.out.println("对接口当中冲突的默认方法进行了覆盖重写");
+    }
 }
