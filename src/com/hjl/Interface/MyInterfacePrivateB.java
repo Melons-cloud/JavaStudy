@@ -13,7 +13,7 @@ public interface MyInterfacePrivateB {
         methodStaticCommon();
 
     }
-    private static void methodStaticCommon(){
+    static void methodStaticCommon(){
         System.out.println("AAA");
         System.out.println("BBB");
         System.out.println("CCC");
