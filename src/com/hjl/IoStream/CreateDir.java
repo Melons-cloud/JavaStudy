@@ -1,4 +1,4 @@
-package com.hjl.Stream_File_IO;
+package com.hjl.IoStream;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package com.hjl.Stream_File_IO;
+package com.hjl.IoStream;
 
 public class WriteDemo {
     public static void main(String[] args) {
