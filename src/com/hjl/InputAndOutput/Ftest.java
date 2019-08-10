@@ -106,8 +106,8 @@ public class Ftest extends JFrame {
 
             jContentPane=new JPanel();
             jContentPane.setLayout(new BorderLayout());
-            jContentPane.add(getJextArea(),BorderLayout.CENTER);
-            jContentPane.add(getControlPanel(),BorderLayout.SOUTH);
+            //jContentPane.add(getJextArea(),BorderLayout.CENTER);
+            //jContentPane.add(getControlPanel(),BorderLayout.SOUTH);
 
         }
         return jContentPane;
