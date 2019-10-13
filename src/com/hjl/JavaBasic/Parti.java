@@ -2,7 +2,7 @@ package com.hjl.JavaBasic;
 
 public class Parti implements Main {
 
-    public int partition(int[] r, int first, int end) {
+    public int partition(int r[], int first, int end) {
 
 
         int i, j;   //初始化
