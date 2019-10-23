@@ -48,6 +48,8 @@ public class GreetingServer extends Thread {
 
         } catch (IOException e) {
             e.printStackTrace();
+        }catch (ArrayIndexOutOfBoundsException e){
+            e.printStackTrace();
         }
 
 
